@@ -1,5 +1,10 @@
 # ThugLife_openCV
 This is a python3 OpenCV and dlib based project which can generate real-time thug life face filter.
+###Important Libraries 
+1. opencv-python
+2. numpy
+3. dlib
+4. PIL
 </br>
 
 |Facial calibration|Final Output|
